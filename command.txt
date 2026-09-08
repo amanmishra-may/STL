@@ -1,0 +1,5 @@
+g++ first.cpp -o first.exe; .\first.exe
+g++ Pattern.cpp --> for creating exe file
+
+ctr+c : to stop infinite loop
+ctr + ` for opening and closing terminal faster
