@@ -12,3 +12,12 @@ ITERATORS :
 
 vec.begin() -> points to the first value
 vec.end()    -> points after the end value
+
+vector<int>::reverse_iterator it; instead of writing all we can simply use auto
+
+
+------------------------------------------------------------>>>
+
+Deque -> implemented using dynamic array
+    cout << d[2]; -> we can perform this in deque but not in list
+
